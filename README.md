@@ -1,8 +1,8 @@
 # community-graphs
 Collection of graphs with communities and ground truth partition
 
-| | | name | n_nodes | n_edges | n_classes |
-| -- | -- | -- | -- | -- |
+|  | name | n_nodes | n_edges | n_classes |
+| --- | --- | --- | --- | --- |
 | 0 | as | 23752 | 58416 | 176 |
 | 1 | citeseer | 3327 | 4676 | 6 |
 | 2 | cora | 2708 | 5278 | 7 |
