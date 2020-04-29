@@ -10,7 +10,7 @@ graph
   node
   [
     id 1602
-    label "Université libre de Bruxelles"
+    label "Universite libre de Bruxelles"
     gt "Belgium"
   ]
   node
@@ -40,7 +40,7 @@ graph
   node
   [
     id 460
-    label "Cité des Sciences et de l'Industrie"
+    label "Cite des Sciences et de l'Industrie"
     gt "France"
   ]
   node
@@ -70,7 +70,7 @@ graph
   node
   [
     id 936
-    label "University of Jyväskylä"
+    label "University of Jyvaskyla"
     gt "Finland"
   ]
   node
@@ -100,13 +100,13 @@ graph
   node
   [
     id 1580
-    label "Université catholique de Louvain"
+    label "Universite catholique de Louvain"
     gt "Belgium"
   ]
   node
   [
     id 791
-    label "Roheline Värav"
+    label "Roheline Varav"
     gt "Estonia"
   ]
   node
@@ -172,7 +172,7 @@ graph
   node
   [
     id 1605
-    label "Uniwersytet Marii Curie-Skłodowskiej  w Lublinie"
+    label "Uniwersytet Marii Curie-Sklodowskiej  w Lublinie"
     gt "Poland"
   ]
   node
@@ -202,13 +202,13 @@ graph
   node
   [
     id 1614
-    label "Sofia University 'St. Kliment Ohridski'"
+    label "Sofia University St. Kliment Ohridski"
     gt "Bulgaria"
   ]
   node
   [
     id 1108
-    label "Institute for Political Sciences"
+    label "Institute for Political Sciences (Hungary) 2"
     gt "Hungary"
   ]
   node
@@ -226,7 +226,7 @@ graph
   node
   [
     id 156
-    label "Portail de la Recherche et des Technologies en Région wallonne"
+    label "Portail de la Recherche et des Technologies en Region wallonne"
     gt "Belgium"
   ]
   node
@@ -238,7 +238,7 @@ graph
   node
   [
     id 206
-    label "Åbo Akademi University"
+    label "Abo Akademi University"
     gt "Finland"
   ]
   node
@@ -250,7 +250,7 @@ graph
   node
   [
     id 1607
-    label "Université de Mons-Hainaut"
+    label "Universite de Mons-Hainaut"
     gt "Belgium"
   ]
   node
@@ -352,7 +352,7 @@ graph
   node
   [
     id 1603
-    label "Université de Liège"
+    label "Universite de Liege"
     gt "Belgium"
   ]
   node
@@ -382,25 +382,25 @@ graph
   node
   [
     id 630
-    label "Eesti Päevaleht"
+    label "Eesti Paevaleht"
     gt "Estonia"
   ]
   node
   [
     id 1247
-    label "Palais de la découverte"
+    label "Palais de la decouverte"
     gt "France"
   ]
   node
   [
     id 1094
-    label "Ministry of Education and Science"
+    label "Ministry of Education and Science (Bulgaria)"
     gt "Bulgaria"
   ]
   node
   [
     id 1243
-    label "OTKA – National Scientific Research Fund"
+    label "OTKA - National Scientific Research Fund"
     gt "Hungary"
   ]
   node
@@ -430,7 +430,7 @@ graph
   node
   [
     id 203
-    label "Tartu Observatory (Tõravere)"
+    label "Tartu Observatory (Toravere)"
     gt "Estonia"
   ]
   node
@@ -526,7 +526,7 @@ graph
   node
   [
     id 1637
-    label "Uniwersytet Śląski w Katowicach"
+    label "Uniwersytet Slaski w Katowicach"
     gt "Poland"
   ]
   node
@@ -574,13 +574,13 @@ graph
   node
   [
     id 313
-    label "Agricultural University – Plovdiv "
+    label "Agricultural University - Plovdiv "
     gt "Bulgaria"
   ]
   node
   [
     id 741
-    label "Facultés Universitaires Catholiques de Mons"
+    label "Facultes Universitaires Catholiques de Mons"
     gt "Belgium"
   ]
   node
@@ -616,7 +616,7 @@ graph
   node
   [
     id 693
-    label "Fête de la science"
+    label "Fete de la science"
     gt "France"
   ]
   node
@@ -634,7 +634,7 @@ graph
   node
   [
     id 1293
-    label "Planète Sciences"
+    label "Planete Sciences"
     gt "France"
   ]
   node
@@ -664,7 +664,7 @@ graph
   node
   [
     id 811
-    label "HEUREKA – The Finnish Science centre"
+    label "HEUREKA - The Finnish Science centre"
     gt "Finland"
   ]
   node
@@ -694,7 +694,7 @@ graph
   node
   [
     id 228
-    label "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie"
+    label "Akademia Gorniczo-Hutnicza im. Stanislawa Staszica w Krakowie"
     gt "Poland"
   ]
   node
@@ -706,7 +706,7 @@ graph
   node
   [
     id 745
-    label "Faculté Universitaire des Sciences Agronomiques de Gembloux"
+    label "Faculte Universitaire des Sciences Agronomiques de Gembloux"
     gt "Belgium"
   ]
   node
@@ -766,7 +766,7 @@ graph
   node
   [
     id 1609
-    label "Nicolaus Copernicus University"
+    label "Nicolaus Copernicus University (Poland) 2"
     gt "Poland"
   ]
   node
@@ -784,7 +784,7 @@ graph
   node
   [
     id 595
-    label "ELTE – Eötvös Lorand University"
+    label "ELTE - Eotvos Lorand University"
     gt "Hungary"
   ]
   node
@@ -850,7 +850,7 @@ graph
   node
   [
     id 733
-    label "Faculté polytechnique de Mons"
+    label "Faculte polytechnique de Mons"
     gt "Belgium"
   ]
   node
@@ -862,7 +862,7 @@ graph
   node
   [
     id 1423
-    label "Seinäjoki University of Applied Sciences"
+    label "Seinajoki University of Applied Sciences"
     gt "Finland"
   ]
   node
@@ -916,7 +916,7 @@ graph
   node
   [
     id 1261
-    label "Pavilhão do Conhecimento"
+    label "Pavilhao do Conhecimento"
     gt "Portugal"
   ]
   node
@@ -928,7 +928,7 @@ graph
   node
   [
     id 1451
-    label "SL Õhtuleht"
+    label "SL Ohtuleht"
     gt "Estonia"
   ]
   node
@@ -946,7 +946,7 @@ graph
   node
   [
     id 497
-    label "Conseil des Recteurs des Universités francophones de Belgique"
+    label "Conseil des Recteurs des Universites francophones de Belgique"
     gt "Belgium"
   ]
   node
@@ -976,7 +976,7 @@ graph
   node
   [
     id 183
-    label "Project "Hello Spring!""
+    label "Project Hello Spring!"
     gt "Estonia"
   ]
   node
@@ -1000,7 +1000,7 @@ graph
   node
   [
     id 1035
-    label "Government’s portal"
+    label "Government's portal"
     gt "Hungary"
   ]
   node
@@ -1024,7 +1024,7 @@ graph
   node
   [
     id 1232
-    label "Ośrodek Przetwarzania Informacji OPI Warszawa"
+    label "Osrodek Przetwarzania Informacji OPI Warszawa"
     gt "Poland"
   ]
   node
@@ -1036,7 +1036,7 @@ graph
   node
   [
     id 1655
-    label "Uniwersytet Warmińsko-Mazurski w Olsztynie"
+    label "Uniwersytet Warminsko-Mazurski w Olsztynie"
     gt "Poland"
   ]
   node
@@ -1054,7 +1054,7 @@ graph
   node
   [
     id 535
-    label "Site portail développement durable"
+    label "Site portail developpement durable"
     gt "Belgium"
   ]
   node
@@ -1078,7 +1078,7 @@ graph
   node
   [
     id 746
-    label "Facultés universitaires Saint-Louis"
+    label "Facultes universitaires Saint-Louis"
     gt "Belgium"
   ]
   node
@@ -1090,7 +1090,7 @@ graph
   node
   [
     id 891
-    label "Instytut Podstawowych Problemów Techniki PAN"
+    label "Instytut Podstawowych Problemow Techniki PAN"
     gt "Poland"
   ]
   node
@@ -1102,7 +1102,7 @@ graph
   node
   [
     id 985
-    label "Researcher Students’ Association"
+    label "Researcher Students' Association"
     gt "Hungary"
   ]
   node
@@ -1120,19 +1120,19 @@ graph
   node
   [
     id 1102
-    label "Ministry of Education and Science"
+    label "Ministry of Education and Science (Montenegro)"
     gt "Montenegro"
   ]
   node
   [
     id 1364
-    label "HAS Center for Regional Studies "
+    label "HAS Center for Regional Studies"
     gt "Hungary"
   ]
   node
   [
     id 1749
-    label "Technical University of Lodz"
+    label "Technical University of Lodz (Poland) 2"
     gt "Poland"
   ]
   node
@@ -1150,7 +1150,7 @@ graph
   node
   [
     id 269
-    label "Äripäev"
+    label "Aripaev"
     gt "Estonia"
   ]
   node
@@ -1162,7 +1162,7 @@ graph
   node
   [
     id 324
-    label "Agence Wallonne des Télécommunications: le portail des Technologies de l'Information et de la Communication (TIC)"
+    label "Agence Wallonne des Telecommunications: le portail des Technologies de l'Information et de la Communication (TIC)"
     gt "Belgium"
   ]
   node
@@ -1174,13 +1174,13 @@ graph
   node
   [
     id 456
-    label "Collectif interassociatif pour la réalisation d'activités scientifiques et techniques internationales "
+    label "Collectif interassociatif pour la realisation d'activites scientifiques et techniques internationales "
     gt "France"
   ]
   node
   [
     id 478
-    label "Centre national d'études spatiales - Service Culture spatiale"
+    label "Centre national d'etudes spatiales - Service Culture spatiale"
     gt "France"
   ]
   node
@@ -1210,7 +1210,7 @@ graph
   node
   [
     id 1245
-    label "Technical University of Lodz"
+    label "Technical University of Lodz (Poland)"
     gt "Poland"
   ]
   node
@@ -1252,7 +1252,7 @@ graph
   node
   [
     id 597
-    label "Emajõe-Suursoo Nature Reserv"
+    label "Emajoe-Suursoo Nature Reserv"
     gt "Estonia"
   ]
   node
@@ -1300,7 +1300,7 @@ graph
   node
   [
     id 464
-    label "Conseil Interuniversitaire de la Communauté française"
+    label "Conseil Interuniversitaire de la Communaute francaise"
     gt "Belgium"
   ]
   node
@@ -1384,7 +1384,7 @@ graph
   node
   [
     id 512
-    label "La Commission universitaire pour le Développement"
+    label "La Commission universitaire pour le Developpement"
     gt "Belgium"
   ]
   node
@@ -1432,7 +1432,7 @@ graph
   node
   [
     id 986
-    label "Researcher Teachers’ Association"
+    label "Researcher Teachers' Association"
     gt "Hungary"
   ]
   node
@@ -1444,13 +1444,13 @@ graph
   node
   [
     id 1061
-    label "MEH – Prime Minister’ Office"
+    label "MEH - Prime Minister' Office"
     gt "Hungary"
   ]
   node
   [
     id 1197
-    label "Novethic/Le média expert du Développement durable"
+    label "Novethic/Le media expert du Developpement durable"
     gt "France"
   ]
   node
@@ -1462,7 +1462,7 @@ graph
   node
   [
     id 1330
-    label "University of Pécs"
+    label "University of Pecs"
     gt "Hungary"
   ]
   node
@@ -1480,7 +1480,7 @@ graph
   node
   [
     id 1412
-    label "Science et Démocratie "
+    label "Science et Democratie "
     gt "France"
   ]
   node
@@ -1516,7 +1516,7 @@ graph
   node
   [
     id 485
-    label "Comité Français pour l'Environnement et le développement durable"
+    label "Comite Francais pour l'Environnement et le developpement durable"
     gt "France"
   ]
   node
@@ -1546,7 +1546,7 @@ graph
   node
   [
     id 988
-    label "KONINKLIJKE VLAAMSE ACADEMIE VAN BELGIË VOOR WETENSCHAPPEN EN KUNSTEN"
+    label "KONINKLIJKE VLAAMSE ACADEMIE VAN BELGIE VOOR WETENSCHAPPEN EN KUNSTEN"
     gt "Belgium"
   ]
   node
@@ -1558,7 +1558,7 @@ graph
   node
   [
     id 1233
-    label "Õpetajate leht"
+    label "Opetajate leht"
     gt "Estonia"
   ]
   node
@@ -1582,7 +1582,7 @@ graph
   node
   [
     id 1591
-    label "Université de nancy"
+    label "Universite de nancy"
     gt "France"
   ]
   node
@@ -1636,7 +1636,7 @@ graph
   node
   [
     id 477
-    label "Centre national de coopération au développement,"
+    label "Centre national de cooperation au developpement,"
     gt "Belgium"
   ]
   node
@@ -1648,7 +1648,7 @@ graph
   node
   [
     id 788
-    label "Groupe de Réflexion et d’Action Pour une Politique Ecologique"
+    label "Groupe de Reflexion et d'Action Pour une Politique Ecologique"
     gt "Belgium"
   ]
   node
@@ -1660,7 +1660,7 @@ graph
   node
   [
     id 980
-    label "Katolicki Uniwersytet Lubelski im. Jana Pawła II"
+    label "Katolicki Uniwersytet Lubelski im. Jana Pawla II"
     gt "Poland"
   ]
   node
@@ -1672,13 +1672,13 @@ graph
   node
   [
     id 1056
-    label "Médiaterre"
+    label "Mediaterre"
     gt "France"
   ]
   node
   [
     id 1266
-    label "Politechnika Częstochowska"
+    label "Politechnika Czestochowska"
     gt "Poland"
   ]
   node
@@ -1762,19 +1762,19 @@ graph
   node
   [
     id 1020
-    label "Laboratório Nacional de Engenharia Civil "
+    label "Laboratorio Nacional de Engenharia Civil "
     gt "Portugal"
   ]
   node
   [
     id 1040
-    label "Musée de zoologie Nancy"
+    label "Musee de zoologie Nancy"
     gt "France"
   ]
   node
   [
     id 1328
-    label "Association française pour l'nformation scientifique"
+    label "Association francaise pour l'nformation scientifique"
     gt "France"
   ]
   node
@@ -1834,7 +1834,7 @@ graph
   node
   [
     id 1210
-    label "College of Nyíregyháza"
+    label "College of Nyiregyhaza"
     gt "Hungary"
   ]
   node
@@ -1906,7 +1906,7 @@ graph
   node
   [
     id 273
-    label "Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie"
+    label "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie"
     gt "Poland"
   ]
   node
@@ -1924,7 +1924,7 @@ graph
   node
   [
     id 654
-    label "EU news – government portal on EU matters"
+    label "EU news - government portal on EU matters"
     gt "Hungary"
   ]
   node
@@ -1954,7 +1954,7 @@ graph
   node
   [
     id 1034
-    label "Magyar Hírlap"
+    label "Magyar Hirlap"
     gt "Hungary"
   ]
   node
@@ -1990,7 +1990,7 @@ graph
   node
   [
     id 1490
-    label "Szent István University, Gödöllő"
+    label "Szent Istvan University, Godollo"
     gt "Hungary"
   ]
   node
@@ -2020,7 +2020,7 @@ graph
   node
   [
     id 17
-    label "Système d'informations sur la biodiversité en Wallonie"
+    label "Systeme d'informations sur la biodiversite en Wallonie"
     gt "Belgium"
   ]
   node
@@ -2032,7 +2032,7 @@ graph
   node
   [
     id 104
-    label "Pärnu Nature Centre"
+    label "Parnu Nature Centre"
     gt "Estonia"
   ]
   node
@@ -2092,7 +2092,7 @@ graph
   node
   [
     id 1403
-    label "Science Animation  Midi-Pyrénées "
+    label "Science Animation  Midi-Pyrenees "
     gt "France"
   ]
   node
@@ -2110,13 +2110,13 @@ graph
   node
   [
     id 1616
-    label "Trakia University – Stara Zagora "
+    label "Trakia University - Stara Zagora "
     gt "Bulgaria"
   ]
   node
   [
     id 1618
-    label "Uniwersytet Łódzki"
+    label "Uniwersytet Lodzki"
     gt "Poland"
   ]
   node
@@ -2152,13 +2152,13 @@ graph
   node
   [
     id 598
-    label "L'Embarcadère du Savoir"
+    label "L'Embarcadere du Savoir"
     gt "Belgium"
   ]
   node
   [
     id 645
-    label "North-Alföld Regional Development Agency"
+    label "North-Alfold Regional Development Agency"
     gt "Hungary"
   ]
   node
@@ -2182,7 +2182,7 @@ graph
   node
   [
     id 1136
-    label "Muséum d'histoire naturelle Toulouse"
+    label "Museum d'histoire naturelle Toulouse"
     gt "France"
   ]
   node
@@ -2194,7 +2194,7 @@ graph
   node
   [
     id 1241
-    label "Otepää Naturepark"
+    label "Otepaa Naturepark"
     gt "Estonia"
   ]
   node
@@ -2230,7 +2230,7 @@ graph
   node
   [
     id 1383
-    label "Conseil Général de l'Essonne"
+    label "Conseil General de l'Essonne"
     gt "France"
   ]
   node
@@ -2260,13 +2260,13 @@ graph
   node
   [
     id 1620
-    label "Uniwersytet Wrocławski"
+    label "Uniwersytet Wroclawski"
     gt "Poland"
   ]
   node
   [
     id 1621
-    label "université de sofia antipolis"
+    label "universite de sofia antipolis"
     gt "France"
   ]
   node
@@ -2314,7 +2314,7 @@ graph
   node
   [
     id 442
-    label "Fondation C génial"
+    label "Fondation C genial"
     gt "France"
   ]
   node
@@ -2326,7 +2326,7 @@ graph
   node
   [
     id 571
-    label "Education portal"
+    label "Education portal (Hungary)"
     gt "Hungary"
   ]
   node
@@ -2350,7 +2350,7 @@ graph
   node
   [
     id 984
-    label "Researchers’ Night"
+    label "Researchers' Night"
     gt "Hungary"
   ]
   node
@@ -2410,7 +2410,7 @@ graph
   node
   [
     id 1654
-    label "Uniwersytet w Białymstoku"
+    label "Uniwersytet w Bialymstoku"
     gt "Poland"
   ]
   node
@@ -2422,13 +2422,13 @@ graph
   node
   [
     id 149
-    label "Association française pour l'information scientifique"
+    label "Association francaise pour l'information scientifique"
     gt "France"
   ]
   node
   [
     id 275
-    label "Uniwersytet Przyrodniczy we Wrocławiu"
+    label "Uniwersytet Przyrodniczy_we Wroclawiu"
     gt "Poland"
   ]
   node
@@ -2458,7 +2458,7 @@ graph
   node
   [
     id 459
-    label "Cité de l'espace- Toulouse"
+    label "Cite de l'espace- Toulouse"
     gt "France"
   ]
   node
@@ -2542,7 +2542,7 @@ graph
   node
   [
     id 994
-    label "Alliance pour la planète"
+    label "Alliance pour la planete"
     gt "France"
   ]
   node
@@ -2566,13 +2566,13 @@ graph
   node
   [
     id 1101
-    label "Fédération nationale des foyers ruraux"
+    label "Federation nationale des foyers ruraux"
     gt "France"
   ]
   node
   [
     id 1270
-    label "Plateform souveraineté alimentaire"
+    label "Plateform souverainete alimentaire"
     gt "Belgium"
   ]
   node
@@ -2584,7 +2584,7 @@ graph
   node
   [
     id 1286
-    label "Politechnika Krakowska im. Tadeusza Kościuszki"
+    label "Politechnika Krakowska im. Tadeusza Kosciuszki"
     gt "Poland"
   ]
   node
@@ -2608,7 +2608,7 @@ graph
   node
   [
     id 1596
-    label "Uniwersytet Humanistyczno – Przyrodniczy Jana Kochanowskiego w Kielcach"
+    label "Uniwersytet Humanistyczno - Przyrodniczy Jana Kochanowskiego w Kielcach"
     gt "Poland"
   ]
   node
@@ -2662,7 +2662,7 @@ graph
   node
   [
     id 189
-    label "Business ethics"
+    label "Business ethics (Hungary)"
     gt "Hungary"
   ]
   node
@@ -2716,13 +2716,13 @@ graph
   node
   [
     id 542
-    label "Foundation for Science and Liberal Arts – Domus Dorpatensis"
+    label "Foundation for Science and Liberal Arts - Domus Dorpatensis"
     gt "Estonia"
   ]
   node
   [
     id 676
-    label "Agence fédrale de contrôle nucléaire"
+    label "Agence fedrale de controle nucleaire"
     gt "Belgium"
   ]
   node
@@ -2746,13 +2746,13 @@ graph
   node
   [
     id 805
-    label "Education portal"
+    label "Education portal (Estonia)"
     gt "Estonia"
   ]
   node
   [
     id 836
-    label "Instytut Chemii Przemysłowej"
+    label "Instytut Chemii Przemyslowej"
     gt "Poland"
   ]
   node
@@ -2770,7 +2770,7 @@ graph
   node
   [
     id 927
-    label "Jyväskylä University of Applied Sciences"
+    label "Jyvaskyla University of Applied Sciences"
     gt "Finland"
   ]
   node
@@ -2788,7 +2788,7 @@ graph
   node
   [
     id 1007
-    label "Les P'tits Débrouillards"
+    label "Les P'tits Debrouillards"
     gt "France"
   ]
   node
@@ -2800,7 +2800,7 @@ graph
   node
   [
     id 1049
-    label "Ministério da Ciência, Tecnologia e Ensino Superior"
+    label "Ministerio da Ciencia, Tecnologia e Ensino Superior"
     gt "Portugal"
   ]
   node
@@ -2818,7 +2818,7 @@ graph
   node
   [
     id 1182
-    label "Portal organizacji pozarządowych"
+    label "Portal organizacji pozarzadowych"
     gt "Poland"
   ]
   node
@@ -2854,7 +2854,7 @@ graph
   node
   [
     id 1315
-    label "Poznański Park Naukowo-Technologiczny"
+    label "Poznanski Park Naukowo-Technologiczny"
     gt "Poland"
   ]
   node
@@ -2872,7 +2872,7 @@ graph
   node
   [
     id 1333
-    label "Politechnika Poznańska"
+    label "Politechnika Poznanska"
     gt "Poland"
   ]
   node
@@ -2896,13 +2896,13 @@ graph
   node
   [
     id 1585
-    label "Uniwersytet Ekonomiczny we Wrocławiu"
+    label "Uniwersytet Ekonomiczny we Wroclawiu"
     gt "Poland"
   ]
   node
   [
     id 1663
-    label "Védegylet"
+    label "Vedegylet"
     gt "Hungary"
   ]
   node
@@ -2932,7 +2932,7 @@ graph
   node
   [
     id 251
-    label "Centro de Ciência Viva da Amadora"
+    label "Centro de Ciencia Viva da Amadora"
     gt "Portugal"
   ]
   node
@@ -2980,7 +2980,7 @@ graph
   node
   [
     id 413
-    label "Galerie Eurêka- 73 Chambéry"
+    label "Galerie Eureka- 73 Chambery"
     gt "France"
   ]
   node
@@ -2992,13 +2992,13 @@ graph
   node
   [
     id 426
-    label "Centro Ciencia Viva Planetário Calouste Gulbenkian"
+    label "Centro Ciencia Viva Planetario Calouste Gulbenkian"
     gt "Portugal"
   ]
   node
   [
     id 428
-    label "CERIMES -Centre de ressources et d'information sur le multimedia pour l'enseignement supérieur"
+    label "CERIMES -Centre de ressources et d'information sur le multimedia pour l'enseignement superieur"
     gt "France"
   ]
   node
@@ -3064,7 +3064,7 @@ graph
   node
   [
     id 730
-    label "Fondation pour le progrès de l'Homme"
+    label "Fondation pour le progres de l'Homme"
     gt "France"
   ]
   node
@@ -3118,7 +3118,7 @@ graph
   node
   [
     id 1013
-    label "Laboratorio  de Instrumentalização de Particulas"
+    label "Laboratorio  de Instrumentalizacao de Particulas"
     gt "Portugal"
   ]
   node
@@ -3160,7 +3160,7 @@ graph
   node
   [
     id 1298
-    label "Pałac Młodzieży im. prof. Aleksandra Kamińskiego"
+    label "Palac Mlodziezy im. prof. Aleksandra Kaminskiego"
     gt "Poland"
   ]
   node
@@ -3172,19 +3172,19 @@ graph
   node
   [
     id 1556
-    label "Politechnika Świętokrzyska w Kielcach"
+    label "Politechnika Swietokrzyska w Kielcach"
     gt "Poland"
   ]
   node
   [
     id 1557
-    label "Politechnika Koszalińska"
+    label "Politechnika Koszalinska"
     gt "Poland"
   ]
   node
   [
     id 1656
-    label "Uniwesytet Zielonogórski"
+    label "Uniwesytet Zielonogorski"
     gt "Poland"
   ]
   node
@@ -3370,7 +3370,7 @@ graph
   node
   [
     id 740
-    label "Fondation Travail-Université"
+    label "Fondation Travail-Universite"
     gt "Belgium"
   ]
   node
@@ -3394,7 +3394,7 @@ graph
   node
   [
     id 906
-    label "Ingénieurs sans frontières"
+    label "Ingenieurs sans frontieres"
     gt "France"
   ]
   node
@@ -3406,7 +3406,7 @@ graph
   node
   [
     id 972
-    label "KÖVET Association"
+    label "KOVET Association"
     gt "Hungary"
   ]
   node
@@ -3424,7 +3424,7 @@ graph
   node
   [
     id 1327
-    label "Politechnika Szczecińska"
+    label "Politechnika Szczecinska"
     gt "Poland"
   ]
   node
@@ -3550,7 +3550,7 @@ graph
   node
   [
     id 400
-    label "Bay Zoltán Foundation for Applied Research"
+    label "Bay Zoltan Foundation for Applied Research"
     gt "Hungary"
   ]
   node
@@ -3586,7 +3586,7 @@ graph
   node
   [
     id 619
-    label "Ministère de l'enseignement supérieur et de la recherche"
+    label "Ministere de l'enseignement superieur et de la recherche"
     gt "France"
   ]
   node
@@ -3670,13 +3670,13 @@ graph
   node
   [
     id 1135
-    label "Muséum d'histoire naturelle Nantes"
+    label "Museum d'histoire naturelle Nantes"
     gt "France"
   ]
   node
   [
     id 1175
-    label "Népszava"
+    label "Nepszava"
     gt "Hungary"
   ]
   node
@@ -3688,13 +3688,13 @@ graph
   node
   [
     id 1242
-    label "Otevrena společnost"
+    label "Otevrena spolecnost"
     gt "Czech Republic"
   ]
   node
   [
     id 1285
-    label "Polsko-Japońska Wyższa Szkoła Technik Komputerowych"
+    label "Polsko-Japonska Wyzsza Szkola Technik Komputerowych"
     gt "Poland"
   ]
   node
@@ -3718,7 +3718,7 @@ graph
   node
   [
     id 1432
-    label "Szkoła Festiwalu Nauki  - International Institute of Molecular and Cell Biology in Warsaw"
+    label "Szkola Festiwalu Nauki  - International Institute of Molecular and Cell Biology in Warsaw"
     gt "Poland"
   ]
   node
@@ -3748,7 +3748,7 @@ graph
   node
   [
     id 1649
-    label "Uniwersytet Technologiczno-Przyrodniczy im. J.J.Śniadeckich w Bydgoszczy"
+    label "Uniwersytet Technologiczno-Przyrodniczy im. J.J.Sniadeckich w Bydgoszczy"
     gt "Poland"
   ]
   node
@@ -3772,13 +3772,13 @@ graph
   node
   [
     id 1708
-    label "Vapramäe Vellavere Vitipalu  Foundation"
+    label "Vapramae Vellavere Vitipalu  Foundation"
     gt "Estonia"
   ]
   node
   [
     id 1718
-    label "Wyższa Szkoła Przedsiębiorczości i Zarządzania im. Leona Koźmińskiego "
+    label "Wyzsza Szkola Przedsiebiorczosci i Zarzadzania im. Leona Kozminskiego "
     gt "Poland"
   ]
   node
@@ -3826,7 +3826,7 @@ graph
   node
   [
     id 249
-    label "Centro Ciência Viva do Alviela"
+    label "Centro Ciencia Viva do Alviela"
     gt "Portugal"
   ]
   node
@@ -3838,13 +3838,13 @@ graph
   node
   [
     id 372
-    label "University of Gdańsk"
+    label "University of Gdansk"
     gt "Poland"
   ]
   node
   [
     id 387
-    label "Centro de Ciência Viva de Braganca"
+    label "Centro de Ciencia Viva de Braganca"
     gt "Portugal"
   ]
   node
@@ -3862,13 +3862,13 @@ graph
   node
   [
     id 469
-    label "Nicolaus Copernicus University"
+    label "Nicolaus Copernicus University (Poland)"
     gt "Poland"
   ]
   node
   [
     id 499
-    label "Centre Régional d’Initiation à l’Environnement"
+    label "Centre Regional d'Initiation a l'Environnement"
     gt "Belgium"
   ]
   node
@@ -3886,7 +3886,7 @@ graph
   node
   [
     id 580
-    label ""Enterprise Incubator" Foundation"
+    label "Enterprise Incubator Foundation"
     gt "Armenia"
   ]
   node
@@ -3928,7 +3928,7 @@ graph
   node
   [
     id 766
-    label "Géospace Hérault- Languedoc-Roussillon"
+    label "Geospace Herault- Languedoc-Roussillon"
     gt "France"
   ]
   node
@@ -3946,7 +3946,7 @@ graph
   node
   [
     id 870
-    label "Innostart – National Business and Innovation Centre"
+    label "Innostart - National Business and Innovation Centre"
     gt "Hungary"
   ]
   node
@@ -3970,7 +3970,7 @@ graph
   node
   [
     id 1039
-    label "Musée Aquarium de Nancy"
+    label "Musee Aquarium de Nancy"
     gt "France"
   ]
   node
@@ -4018,7 +4018,7 @@ graph
   node
   [
     id 1263
-    label "Politechnika Białostocka"
+    label "Politechnika Bialostocka"
     gt "Poland"
   ]
   node
@@ -4072,7 +4072,7 @@ graph
   node
   [
     id 1646
-    label "Universidade de Trás os Montes e Alto Douro"
+    label "Universidade de Tras os Montes e Alto Douro"
     gt "Portugal"
   ]
   node
@@ -4114,13 +4114,13 @@ graph
   node
   [
     id 38
-    label "Université de Pau et des Pays de l'Adour - Mission CST"
+    label "Universite de Pau et des Pays de l'Adour - Mission CST"
     gt "France"
   ]
   node
   [
     id 74
-    label "Forum social mondial science et démocratie"
+    label "Forum social mondial science et democratie"
     gt "International"
   ]
   node
@@ -4174,7 +4174,7 @@ graph
   node
   [
     id 304
-    label "Association pour l'étude du pic du pétrole et du gaz"
+    label "Association pour l'etude du pic du petrole et du gaz"
     gt "Belgium"
   ]
   node
@@ -4204,13 +4204,13 @@ graph
   node
   [
     id 500
-    label "Comité de Recherche et d'Information indépendantes sur le génie génétique"
+    label "Comite de Recherche et d'Information independantes sur le genie genetique"
     gt "France"
   ]
   node
   [
     id 517
-    label "Conseil wallon de l’environnement pour le développement durable"
+    label "Conseil wallon de l'environnement pour le developpement durable"
     gt "Belgium"
   ]
   node
@@ -4258,7 +4258,7 @@ graph
   node
   [
     id 648
-    label "Chaire Hoover d'éthique économique et sociale"
+    label "Chaire Hoover d'ethique economique et sociale"
     gt "Belgium"
   ]
   node
@@ -4282,7 +4282,7 @@ graph
   node
   [
     id 779
-    label "Gödöllő region"
+    label "Godollo region"
     gt "Hungary"
   ]
   node
@@ -4300,7 +4300,7 @@ graph
   node
   [
     id 859
-    label "Instituto Nacional de Engenharia, Tecnologia, e Inovação I.P"
+    label "Instituto Nacional de Engenharia, Tecnologia, e Inovacao I.P"
     gt "Portugal"
   ]
   node
@@ -4336,7 +4336,7 @@ graph
   node
   [
     id 969
-    label "Kõrvemaa Landscape Reserv"
+    label "Korvemaa Landscape Reserv"
     gt "Estonia"
   ]
   node
@@ -4360,7 +4360,7 @@ graph
   node
   [
     id 1037
-    label "Espace Pierre Mendès France - CCSTI de Poitiers"
+    label "Espace Pierre Mendes France - CCSTI de Poitiers"
     gt "France"
   ]
   node
@@ -4378,13 +4378,13 @@ graph
   node
   [
     id 1129
-    label "Muséum d'histoire naturelle Aix-en-Provence"
+    label "Museum d'histoire naturelle Aix-en-Provence"
     gt "France"
   ]
   node
   [
     id 1132
-    label "Muséum d'histoire naturelle Marseille"
+    label "Museum d'histoire naturelle Marseille"
     gt "France"
   ]
   node
@@ -4414,7 +4414,7 @@ graph
   node
   [
     id 1281
-    label "Pièce et main d'œuvre"
+    label "Piece et main d'oeuvre"
     gt "France"
   ]
   node
@@ -4432,7 +4432,7 @@ graph
   node
   [
     id 1358
-    label "Réseau d'accès international au développement durable"
+    label "Reseau d'acces international au developpement durable"
     gt "France"
   ]
   node
@@ -4480,7 +4480,7 @@ graph
   node
   [
     id 1525
-    label "Természet Világa"
+    label "Termeszet Vilaga"
     gt "Hungary"
   ]
   node
@@ -4516,7 +4516,7 @@ graph
   node
   [
     id 1675
-    label "Viidumäe Nature Reserv"
+    label "Viidumae Nature Reserv"
     gt "Estonia"
   ]
   node
@@ -4540,7 +4540,7 @@ graph
   node
   [
     id 1717
-    label "Akademia im. Jana Długosza w Częstochowie"
+    label "Akademia im. Jana Dlugosza w Czestochowie"
     gt "Poland"
   ]
   node
@@ -4600,7 +4600,7 @@ graph
   node
   [
     id 191
-    label "Centro de Ciência Viva de Vila do Conde"
+    label "Centro de Ciencia Viva de Vila do Conde"
     gt "Portugal"
   ]
   node
@@ -4654,7 +4654,7 @@ graph
   node
   [
     id 401
-    label "Centre d'Economie et d'Ethique pour l'Environnement et le Développement,"
+    label "Centre d'Economie et d'Ethique pour l'Environnement et le Developpement,"
     gt "France"
   ]
   node
@@ -4738,7 +4738,7 @@ graph
   node
   [
     id 680
-    label "Fédération des écomusées et des musées de société "
+    label "Federation des ecomusees et des musees de societe "
     gt "France"
   ]
   node
@@ -4762,7 +4762,7 @@ graph
   node
   [
     id 714
-    label "Centro Ciência Viva da Floresta"
+    label "Centro Ciencia Viva da Floresta"
     gt "Portugal"
   ]
   node
@@ -4834,7 +4834,7 @@ graph
   node
   [
     id 904
-    label "L’Institut des Sciences de la Communication du CNRS"
+    label "L'Institut des Sciences de la Communication du CNRS"
     gt "France"
   ]
   node
@@ -4858,7 +4858,7 @@ graph
   node
   [
     id 1023
-    label "Loodusesõber"
+    label "Loodusesober"
     gt "Estonia"
   ]
   node
@@ -4894,13 +4894,13 @@ graph
   node
   [
     id 1118
-    label "Muséum d'histoire naturelle Lyon"
+    label "Museum d'histoire naturelle Lyon"
     gt "France"
   ]
   node
   [
     id 1130
-    label "Muséum d’histoire naturelle Esprit Requien Avignon"
+    label "Museum d'histoire naturelle Esprit Requien Avignon"
     gt "France"
   ]
   node
@@ -4972,7 +4972,7 @@ graph
   node
   [
     id 1309
-    label "Pôle universitaire européen de Montpellier et du Languedoc-Roussillon"
+    label "Pole universitaire europeen de Montpellier et du Languedoc-Roussillon"
     gt "France"
   ]
   node
@@ -4984,7 +4984,7 @@ graph
   node
   [
     id 1404
-    label "Université d'Evry"
+    label "Universite d'Evry"
     gt "France"
   ]
   node
@@ -5014,19 +5014,19 @@ graph
   node
   [
     id 1531
-    label "THE – Scientific, useful, human"
+    label "THE - Scientific, useful, human"
     gt "Hungary"
   ]
   node
   [
     id 1538
-    label "Site de Tourisme Industriel, scientifique et Technique de la Région Rhone Alpes"
+    label "Site de Tourisme Industriel, scientifique et Technique de la Region Rhone Alpes"
     gt "France"
   ]
   node
   [
     id 1586
-    label "Universidade de Évora"
+    label "Universidade de Evora"
     gt "Portugal"
   ]
   node
@@ -5038,7 +5038,7 @@ graph
   node
   [
     id 1657
-    label "Business ethics"
+    label "Business ethics (Hungary) 2"
     gt "Hungary"
   ]
   node
@@ -5116,7 +5116,7 @@ graph
   node
   [
     id 59
-    label "Centro de Ciência Viva de Estremoz"
+    label "Centro de Ciencia Viva de Estremoz"
     gt "Portugal"
   ]
   node
@@ -5194,7 +5194,7 @@ graph
   node
   [
     id 280
-    label "L'Arche des métiers (LE Cheylard – 07)"
+    label "L'Arche des metiers (LE Cheylard - 07)"
     gt "France"
   ]
   node
@@ -5206,7 +5206,7 @@ graph
   node
   [
     id 299
-    label "Agency for Sustainable Development and Eurointegration – ECOREGIONS (ASDE)"
+    label "Agency for Sustainable Development and Eurointegration - ECOREGIONS (ASDE)"
     gt "Bulgaria"
   ]
   node
@@ -5230,7 +5230,7 @@ graph
   node
   [
     id 351
-    label "Conseil consultatif de Biosécurité"
+    label "Conseil consultatif de Biosecurite"
     gt "Belgium"
   ]
   node
@@ -5278,19 +5278,19 @@ graph
   node
   [
     id 418
-    label "Centro de Ciência Viva do Algarve"
+    label "Centro de Ciencia Viva do Algarve"
     gt "Portugal"
   ]
   node
   [
     id 419
-    label "Centro de Ciência Viva de Porto Moniz"
+    label "Centro de Ciencia Viva de Porto Moniz"
     gt "Portugal"
   ]
   node
   [
     id 422
-    label "Centro de Estudos Geográficos Universidade de Lisboa"
+    label "Centro de Estudos Geograficos Universidade de Lisboa"
     gt "Portugal"
   ]
   node
@@ -5302,13 +5302,13 @@ graph
   node
   [
     id 476
-    label "C'Nano Rhône-Alpes"
+    label "C'Nano Rhone-Alpes"
     gt "France"
   ]
   node
   [
     id 498
-    label "CRID- Centre de recherche international pour le développement"
+    label "CRID- Centre de recherche international pour le developpement"
     gt "France"
   ]
   node
@@ -5344,13 +5344,13 @@ graph
   node
   [
     id 576
-    label "Direction de l’Égalité des Chances"
+    label "Direction de l'Egalite des Chances"
     gt "Belgium"
   ]
   node
   [
     id 590
-    label "Musée EDF/Electropolis Mulhouse"
+    label "Musee EDF/Electropolis Mulhouse"
     gt "France"
   ]
   node
@@ -5374,13 +5374,13 @@ graph
   node
   [
     id 655
-    label "Institute for Political Sciences"
+    label "Institute for Political Sciences (Hungary)"
     gt "Hungary"
   ]
   node
   [
     id 674
-    label "Fábrica de Ciência Viva"
+    label "Fabrica de Ciencia Viva"
     gt "Portugal"
   ]
   node
@@ -5392,7 +5392,7 @@ graph
   node
   [
     id 695
-    label "Fédération des Maisons des Jeunes et de la Culture"
+    label "Federation des Maisons des Jeunes et de la Culture"
     gt "France"
   ]
   node
@@ -5524,7 +5524,7 @@ graph
   node
   [
     id 1125
-    label "Museo del Balì"
+    label "Museo del Bali"
     gt "Italy"
   ]
   node
@@ -5542,7 +5542,7 @@ graph
   node
   [
     id 1262
-    label "Le pavillon des sciences -Franche-Comté "
+    label "Le pavillon des sciences -Franche-Comte "
     gt "France"
   ]
   node
@@ -5566,7 +5566,7 @@ graph
   node
   [
     id 1305
-    label "Pôle Mosan"
+    label "Pole Mosan"
     gt "Belgium"
   ]
   node
@@ -5614,19 +5614,19 @@ graph
   node
   [
     id 1463
-    label "Kopalnia Soli "Kłodawa" "
+    label "Kopalnia Soli "Klodawa" "
     gt "Poland"
   ]
   node
   [
     id 1472
-    label "Vocational High School "Spasoje Raspopović", Podgorica"
+    label "Vocational High School Spasoje Raspopovic, Podgorica"
     gt "Montenegro"
   ]
   node
   [
     id 1477
-    label "Unité mixte de recherche Sciences Techniques Éducation Formation"
+    label "Unite mixte de recherche Sciences Techniques Education Formation"
     gt "France"
   ]
   node
@@ -5656,7 +5656,7 @@ graph
   node
   [
     id 1547
-    label "The City Office of Toruń"
+    label "The City Office of Torun"
     gt "Poland"
   ]
   node
@@ -5704,7 +5704,7 @@ graph
   node
   [
     id 1629
-    label "Université des femmes"
+    label "Universite des femmes"
     gt "Belgium"
   ]
   node
@@ -5716,7 +5716,7 @@ graph
   node
   [
     id 4
-    label "ADRECA - Association pour le développement d'une recherche citoyenne active (Grenoble)"
+    label "ADRECA - Association pour le developpement d'une recherche citoyenne active (Grenoble)"
     gt "France"
   ]
   node
@@ -5740,7 +5740,7 @@ graph
   node
   [
     id 25
-    label "Centre Agricole pour le Développement des Céréales et des Oléoprotéagineux"
+    label "Centre Agricole pour le Developpement des Cereales et des Oleoproteagineux"
     gt "Belgium"
   ]
   node
@@ -5770,7 +5770,7 @@ graph
   node
   [
     id 82
-    label "Université Toulon-Var"
+    label "Universite Toulon-Var"
     gt "France"
   ]
   node
@@ -5836,7 +5836,7 @@ graph
   node
   [
     id 272
-    label "Aquarium Porte Dorée (Paris)"
+    label "Aquarium Porte Doree (Paris)"
     gt "France"
   ]
   node
@@ -5866,7 +5866,7 @@ graph
   node
   [
     id 325
-    label "“The evening”"
+    label "The evening"
     gt "Hungary"
   ]
   node
@@ -5914,7 +5914,7 @@ graph
   node
   [
     id 416
-    label "Musée des sciences de Laval"
+    label "Musee des sciences de Laval"
     gt "France"
   ]
   node
@@ -5926,7 +5926,7 @@ graph
   node
   [
     id 479
-    label "CNRS - Science et société"
+    label "CNRS - Science et societe"
     gt "France"
   ]
   node
@@ -5956,7 +5956,7 @@ graph
   node
   [
     id 554
-    label "Ébulliscience - Vaulx en Velin"
+    label "Ebulliscience - Vaulx en Velin"
     gt "France"
   ]
   node
@@ -5980,7 +5980,7 @@ graph
   node
   [
     id 620
-    label "Mission parité"
+    label "Mission parite"
     gt "France"
   ]
   node
@@ -6028,7 +6028,7 @@ graph
   node
   [
     id 685
-    label "Fetiwal Nauki Techniki i Sztuki w Łodzi"
+    label "Fetiwal Nauki Techniki i Sztuki w Lodzi"
     gt "Poland"
   ]
   node
@@ -6046,7 +6046,7 @@ graph
   node
   [
     id 701
-    label "Państwowa Wyższa Szkoła Filmowa Telewizyjna i Teatralna im. L.Schillera"
+    label "Panstwowa Wyzsza Szkola Filmowa Telewizyjna i Teatralna im. L.Schillera"
     gt "Poland"
   ]
   node
@@ -6076,13 +6076,13 @@ graph
   node
   [
     id 769
-    label " High School "Petar I Petrović Njegoš", Danilovgrad"
+    label "High School Petar I Petrovic Njegos, Danilovgrad"
     gt "Montenegro"
   ]
   node
   [
     id 771
-    label "Giovedì scienza"
+    label "Giovedi scienza"
     gt "Italy"
   ]
   node
@@ -6130,7 +6130,7 @@ graph
   node
   [
     id 842
-    label " High School "Ivan Goran Kovačić", Herceg Novi"
+    label "High School Ivan Goran Kovacic, Herceg Novi"
     gt "Montenegro"
   ]
   node
@@ -6178,7 +6178,7 @@ graph
   node
   [
     id 933
-    label "Bałtowski Park Jurajski"
+    label "Baltowski Park Jurajski"
     gt "Poland"
   ]
   node
@@ -6202,7 +6202,7 @@ graph
   node
   [
     id 1006
-    label "Les petits débrouillards"
+    label "Les petits debrouillards"
     gt "Belgium"
   ]
   node
@@ -6226,7 +6226,7 @@ graph
   node
   [
     id 1073
-    label "Muséum d’histoire naturelle Nice"
+    label "Museum d'histoire naturelle Nice"
     gt "France"
   ]
   node
@@ -6328,7 +6328,7 @@ graph
   node
   [
     id 1288
-    label "Polska Konfederacja Pracodawców Prywatnych"
+    label "Polska Konfederacja Pracodawcow Prywatnych"
     gt "Poland"
   ]
   node
@@ -6340,7 +6340,7 @@ graph
   node
   [
     id 1316
-    label "Politechnika Radomska im. Kazimierza Pułaskiego"
+    label "Politechnika Radomska im. Kazimierza Pulaskiego"
     gt "Poland"
   ]
   node
@@ -6376,7 +6376,7 @@ graph
   node
   [
     id 1375
-    label "Polska Izba Rzeczników Patentowych"
+    label "Polska Izba Rzecznikow Patentowych"
     gt "Poland"
   ]
   node
@@ -6466,7 +6466,7 @@ graph
   node
   [
     id 1406
-    label "Science et Ethique Brest – 3B"
+    label "Science et Ethique Brest - 3B"
     gt "France"
   ]
   node
@@ -6490,7 +6490,7 @@ graph
   node
   [
     id 1459
-    label "Società chimica italiana"
+    label "Societa chimica italiana"
     gt "Italy"
   ]
   node
@@ -6526,7 +6526,7 @@ graph
   node
   [
     id 1628
-    label "CCSTI du Rhône"
+    label "CCSTI du Rhone"
     gt "France"
   ]
   node
@@ -6550,7 +6550,7 @@ graph
   node
   [
     id 1707
-    label " High School "Vukadin Vukadinović""
+    label "High School Vukadin Vukadinovic"
     gt "Montenegro"
   ]
   node
@@ -6568,7 +6568,7 @@ graph
   node
   [
     id 1739
-    label "Mendel University of Agriculture and … (Lednice)"
+    label "Mendel University of Agriculture and _ (Lednice)"
     gt "Czech Republic"
   ]
   node
@@ -6610,7 +6610,7 @@ graph
   node
   [
     id 32
-    label "List of Budapest’s museums"
+    label "List of Budapest's museums"
     gt "Hungary"
   ]
   node
@@ -6646,7 +6646,7 @@ graph
   node
   [
     id 58
-    label "University of Gödöllő - Environmental social science"
+    label "University of Godollo - Environmental social science"
     gt "Hungary"
   ]
   node
@@ -6706,13 +6706,13 @@ graph
   node
   [
     id 134
-    label "Gabinete de História Economica e Social - ISEG"
+    label "Gabinete de Historia Economica e Social - ISEG"
     gt "Portugal"
   ]
   node
   [
     id 148
-    label "Université de technologie de Compiègne - Service Communication et culture technologiques"
+    label "Universite de technologie de Compiegne - Service Communication et culture technologiques"
     gt "France"
   ]
   node
@@ -6736,13 +6736,13 @@ graph
   node
   [
     id 184
-    label "E-learning pandémie de grippe"
+    label "E-learning pandemie de grippe"
     gt "Belgium"
   ]
   node
   [
     id 188
-    label "László Radácsi"
+    label "Laszlo Radacsi"
     gt "Hungary"
   ]
   node
@@ -6826,7 +6826,7 @@ graph
   node
   [
     id 323
-    label "Association Française pour l'Avancement des Sciences"
+    label "Association Francaise pour l'Avancement des Sciences"
     gt "France"
   ]
   node
@@ -6922,7 +6922,7 @@ graph
   node
   [
     id 452
-    label "Čikom"
+    label "Cikom"
     gt "Montenegro"
   ]
   node
@@ -6934,7 +6934,7 @@ graph
   node
   [
     id 461
-    label "Cité de la Mer Cherbourg Octeville"
+    label "Cite de la Mer Cherbourg Octeville"
     gt "France"
   ]
   node
@@ -6946,13 +6946,13 @@ graph
   node
   [
     id 474
-    label "Conservatoire national des Arts et Métiers des Pays de la Loire - Mission Diffusion de la CST "
+    label "Conservatoire national des Arts et Metiers des Pays de la Loire - Mission Diffusion de la CST "
     gt "France"
   ]
   node
   [
     id 492
-    label ""Counterpart International Inc.", Representation In Armenia"
+    label "Counterpart International Inc., Representation In Armenia"
     gt "International"
   ]
   node
@@ -6964,7 +6964,7 @@ graph
   node
   [
     id 507
-    label "Secção Autonoma de Ciências Sociais  Juridicas e Politicas"
+    label "Seccao Autonoma de Ciencias Sociais  Juridicas e Politicas"
     gt "Portugal"
   ]
   node
@@ -6976,7 +6976,7 @@ graph
   node
   [
     id 514
-    label "Direction des Musées de France"
+    label "Direction des Musees de France"
     gt "France"
   ]
   node
@@ -7120,7 +7120,7 @@ graph
   node
   [
     id 762
-    label "National Educational Programme in Physics Online "Physics through my eyes""
+    label "National Educational Programme in Physics Online Physics through my eyes"
     gt "Bulgaria"
   ]
   node
@@ -7162,7 +7162,7 @@ graph
   node
   [
     id 798
-    label ""H2 ECOnomy" CJSC"
+    label "H2 ECOnomy CJSC"
     gt "Armenia"
   ]
   node
@@ -7192,7 +7192,7 @@ graph
   node
   [
     id 848
-    label "Instituto de Linguística Teórica e Computacional"
+    label "Instituto de Linguistica Teorica e Computacional"
     gt "Portugal"
   ]
   node
@@ -7222,7 +7222,7 @@ graph
   node
   [
     id 886
-    label "Instituto Politécnico do Cávado e do Ave"
+    label "Instituto Politecnico do Cavado e do Ave"
     gt "Portugal"
   ]
   node
@@ -7282,7 +7282,7 @@ graph
   node
   [
     id 963
-    label "Urząd Miasta i Gminy Kłodawa"
+    label "Urzad Miasta i Gminy Klodawa"
     gt "Poland"
   ]
   node
@@ -7300,13 +7300,13 @@ graph
   node
   [
     id 991
-    label "La città dei bambini"
+    label "La citta dei bambini"
     gt "Italy"
   ]
   node
   [
     id 1002
-    label "CCSTI La Turbine Rhône-Alpes "
+    label "CCSTI La Turbine Rhone-Alpes "
     gt "France"
   ]
   node
@@ -7378,19 +7378,19 @@ graph
   node
   [
     id 1117
-    label "Musée de la Mer Biarritz"
+    label "Musee de la Mer Biarritz"
     gt "France"
   ]
   node
   [
     id 1131
-    label "Muséum d'histoire naturelle Grenoble"
+    label "Museum d'histoire naturelle Grenoble"
     gt "France"
   ]
   node
   [
     id 1133
-    label "Muséum d'histoire naturelle Toulon"
+    label "Museum d'histoire naturelle Toulon"
     gt "France"
   ]
   node
@@ -7432,7 +7432,7 @@ graph
   node
   [
     id 1251
-    label "Akademia Pomorska w Słupsku"
+    label "Akademia Pomorska w Slupsku"
     gt "Poland"
   ]
   node
@@ -7480,7 +7480,7 @@ graph
   node
   [
     id 1324
-    label "Prosme" Promotion of Small And Medium Enterprises""
+    label "Prosme Promotion of Small And Medium Enterprises"
     gt "International"
   ]
   node
@@ -7504,7 +7504,7 @@ graph
   node
   [
     id 1366
-    label "Conseil de l'Environnement de la Région de Bruxelles-Capitale"
+    label "Conseil de l'Environnement de la Region de Bruxelles-Capitale"
     gt "Belgium"
   ]
   node
@@ -7528,13 +7528,13 @@ graph
   node
   [
     id 1427
-    label "Semmelweis Doctors’ History museum"
+    label "Semmelweis Doctors' History museum"
     gt "Hungary"
   ]
   node
   [
     id 1428
-    label "Sénat"
+    label "Senat"
     gt "France"
   ]
   node
@@ -7564,13 +7564,13 @@ graph
   node
   [
     id 1464
-    label ""SolarEn", LLC"
+    label "SolarEn, LLC"
     gt "Armenia"
   ]
   node
   [
     id 1484
-    label "Szkoła Wyższa Psychologii Społecznej"
+    label "Szkola Wyzsza Psychologii Spolecznej"
     gt "Poland"
   ]
   node
@@ -7600,7 +7600,7 @@ graph
   node
   [
     id 1520
-    label "Tutki-Kokeile-Kehitä -kilpailu"
+    label "Tutki-Kokeile-Kehita -kilpailu"
     gt "Finland"
   ]
   node
@@ -7624,7 +7624,7 @@ graph
   node
   [
     id 1552
-    label "Agricultural Centre Ltd. Of Gödöllő"
+    label "Agricultural Centre Ltd. Of Godollo"
     gt "Hungary"
   ]
   node
@@ -7642,7 +7642,7 @@ graph
   node
   [
     id 1597
-    label "Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie"
+    label "Uniwersytet Kardynala Stefana Wyszynskiego w Warszawie"
     gt "Poland"
   ]
   node
@@ -7672,7 +7672,7 @@ graph
   node
   [
     id 1680
-    label "Le Visiatome - Commissariat à l'énergie atomique"
+    label "Le Visiatome - Commissariat a l'energie atomique"
     gt "France"
   ]
   node
@@ -7684,7 +7684,7 @@ graph
   node
   [
     id 1725
-    label "Yerevan Telecommunication Research Institute CJSC "
+    label "Yerevan Telecommunication Research Institute CJSC"
     gt "Armenia"
   ]
   node
@@ -7708,7 +7708,7 @@ graph
   node
   [
     id 1745
-    label "Centrum Badań Kosmicznych PAN"
+    label "Centrum Badan Kosmicznych PAN"
     gt "Poland"
   ]
   edge
