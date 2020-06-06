@@ -24,15 +24,15 @@ All graphs are transformed into GML format, labels are kept in "gt" attribute.
 17 |  | [eurosis](https://gephi.org/gexf/format/datasets.html): EuroSiS web mapping study <br> Mapping interactions between Science in Society actors on the Web of 12 European countries. | 1285 | 7524 | 13
 18 |  | [football](http://www-personal.umich.edu/~mejn/netdata/): **American College football** <br> Network of American football games between Division IA colleges during regular season Fall 2000. <br> Mark EJ Newman and Michelle Girvan. Finding and evaluating community structure in networks (2004) | 115 | 613 | 12
 19 |  | [karate](http://www-personal.umich.edu/~mejn/netdata/): **Zachary's karate club** <br> Social network of friendships between 34 members of a karate club at a US university in the 1970s. <br> W. W. Zachary, An information flow model for conflict and fission in small groups (1977) | 34 | 78 | 2
-20 | newsgroup | news_2cl_1 <br> Confusion graphs generated from the Newsgroup 20 dataset <br> Yen, Luh, et al. Graph nodes clustering based on the commute-time kernel (2007) | 400 | 33854 | 2
-21 | newsgroup | news_2cl_2 | 398 | 21480 | 2
-22 | newsgroup | news_2cl_3 | 399 | 36527 | 2
-23 | newsgroup | news_3cl_1 | 600 | 70591 | 3
-24 | newsgroup | news_3cl_2 | 598 | 68201 | 3
-25 | newsgroup | news_3cl_3 | 595 | 64169 | 3
-26 | newsgroup | news_5cl_1 | 998 | 176962 | 5
-27 | newsgroup | news_5cl_2 | 999 | 164452 | 5
-28 | newsgroup | news_5cl_3 | 997 | 155618 | 5
+20 | newsgroup | news_2cl1 <br> Confusion graphs generated from the Newsgroup 20 dataset <br> Yen, Luh, et al. Graph nodes clustering based on the commute-time kernel (2007) | 400 | 33854 | 2
+21 | newsgroup | news_2cl2 | 398 | 21480 | 2
+22 | newsgroup | news_2cl3 | 399 | 36527 | 2
+23 | newsgroup | news_3cl1 | 600 | 70591 | 3
+24 | newsgroup | news_3cl2 | 598 | 68201 | 3
+25 | newsgroup | news_3cl3 | 595 | 64169 | 3
+26 | newsgroup | news_5cl1 | 998 | 176962 | 5
+27 | newsgroup | news_5cl2 | 999 | 164452 | 5
+28 | newsgroup | news_5cl3 | 997 | 155618 | 5
 29 | newsgroup_0.1 <br> Binarized weights with threshold 0.1 | news_2cl1_0.1 | 398 | 2634 | 2
 30 | newsgroup_0.1 | news_2cl2_0.1 | 398 | 2455 | 2
 31 | newsgroup_0.1 | news_2cl3_0.1 | 398 | 3347 | 2

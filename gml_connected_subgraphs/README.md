@@ -22,15 +22,15 @@
 17 |  | eurosis | 1272 | 6454 | 13
 18 |  | football | 115 | 613 | 12
 19 |  | karate | 34 | 78 | 2
-20 | newsgroup | news_2cl_1 | 400 | 33854 | 2
-21 | newsgroup | news_2cl_2 | 398 | 21480 | 2
-22 | newsgroup | news_2cl_3 | 399 | 36527 | 2
-23 | newsgroup | news_3cl_1 | 600 | 70591 | 3
-24 | newsgroup | news_3cl_2 | 598 | 68201 | 3
-25 | newsgroup | news_3cl_3 | 595 | 64169 | 3
-26 | newsgroup | news_5cl_1 | 998 | 176962 | 5
-27 | newsgroup | news_5cl_2 | 999 | 164452 | 5
-28 | newsgroup | news_5cl_3 | 997 | 155618 | 5
+20 | newsgroup | news_2cl1 | 400 | 33854 | 2
+21 | newsgroup | news_2cl2 | 398 | 21480 | 2
+22 | newsgroup | news_2cl3 | 399 | 36527 | 2
+23 | newsgroup | news_3cl1 | 600 | 70591 | 3
+24 | newsgroup | news_3cl2 | 598 | 68201 | 3
+25 | newsgroup | news_3cl3 | 595 | 64169 | 3
+26 | newsgroup | news_5cl1 | 998 | 176962 | 5
+27 | newsgroup | news_5cl2 | 999 | 164452 | 5
+28 | newsgroup | news_5cl3 | 997 | 155618 | 5
 29 | newsgroup_0.1 | news_2cl1_0.1 | 398 | 2634 | 2
 30 | newsgroup_0.1 | news_2cl2_0.1 | 398 | 2455 | 2
 31 | newsgroup_0.1 | news_2cl3_0.1 | 398 | 3347 | 2
