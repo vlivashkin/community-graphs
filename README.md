@@ -1,6 +1,8 @@
 # Graphs with non-overlapping communities
 Collection of graphs with **non-overlapping** communities and ground truth partition.
-All graphs are transformed into GML format, labels are kept in "gt" attribute. 
+All graphs are transformed into GML format, labels are kept in "gt" attribute.
+
+The biggest connected component of every graph is kept in [/gml_connected_subgraphs](/gml_connected_subgraphs) folder.
 
 | | family | name | n_nodes | n_edges | n_classes |
 | --- | --- | --- | --- | --- | --- |
