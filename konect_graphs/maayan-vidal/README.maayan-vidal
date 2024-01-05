@@ -1,0 +1,78 @@
+Human proteins (Vidal) network, part of the Koblenz Network Collection
+===========================================================================
+
+This directory contains the TSV and related files of the maayan-vidal network: This network represens an initial version of a proteome-scale map of Human binary protein–protein interactions
+
+
+More information about the network is provided here: 
+http://konect.cc/networks/maayan-vidal
+
+Files: 
+    meta.maayan-vidal -- Metadata about the network 
+    out.maayan-vidal -- The adjacency matrix of the network in whitespace-separated values format, with one edge per line
+      The meaning of the columns in out.maayan-vidal are: 
+        First column: ID of from node 
+        Second column: ID of to node
+        Third column (if present): weight or multiplicity of edge
+        Fourth column (if present):  timestamp of edges Unix time
+
+
+Use the following References for citation:
+
+@MISC{konect:2017:maayan-vidal,
+    title = {Human proteins (Vidal) network dataset -- {KONECT}},
+    month = oct,
+    year = {2017},
+    url = {http://konect.cc/networks/maayan-vidal}
+}
+
+@article{konect:proteome,
+	title = {Towards a Proteome-scale Map of the Human Protein--Protein Interaction Network}, 
+	number = {7062}, 
+	journal = {Nature}, 
+	author = {Jean-François Rual and Kavitha Venkatesan and Tong Hao
+                  and Tomoko Hirozane-Kishikawa and Amélie Dricot and
+                  Ning Li and Gabriel F. Berriz and Francis D. Gibbons
+                  and Matija Dreze and Nono Ayivi-Guedehoussou}, 
+ 	year = {2005},
+	pages={1173--1178},
+}
+
+@article{konect:proteome,
+	title = {Towards a Proteome-scale Map of the Human Protein--Protein Interaction Network}, 
+	number = {7062}, 
+	journal = {Nature}, 
+	author = {Jean-François Rual and Kavitha Venkatesan and Tong Hao
+                  and Tomoko Hirozane-Kishikawa and Amélie Dricot and
+                  Ning Li and Gabriel F. Berriz and Francis D. Gibbons
+                  and Matija Dreze and Nono Ayivi-Guedehoussou}, 
+ 	year = {2005},
+	pages={1173--1178},
+}
+
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+
