@@ -1,0 +1,84 @@
+Caenorhabditis elegans (neural) network, part of the Koblenz Network Collection
+===========================================================================
+
+This directory contains the TSV and related files of the dimacs10-celegansneural network: This is a weighted directed network representing the neural network of <I>Caenorhabditis elegans</I>.  The original network had directed edges allowing multiple parallel edges with integer weights.  In this version, the network is undirected, allows no multiple edges, and the given edge weights are the sum of the original edge weights.  As described in the original publication by J. G. White and colleagues, the data was assembled by hand and may contain a small number of errors.  To cite:  "We are reasonably confident that the structure that we present is substantially correct and gives a reasonable picture of the organization of the nervous system in a typical <I>C. elegans</I> hermaphrodite."
+
+
+More information about the network is provided here: 
+http://konect.cc/networks/dimacs10-celegansneural
+
+Files: 
+    meta.dimacs10-celegansneural -- Metadata about the network 
+    out.dimacs10-celegansneural -- The adjacency matrix of the network in whitespace-separated values format, with one edge per line
+      The meaning of the columns in out.dimacs10-celegansneural are: 
+        First column: ID of from node 
+        Second column: ID of to node
+        Third column (if present): weight or multiplicity of edge
+        Fourth column (if present):  timestamp of edges Unix time
+        Third column: edge weight
+
+
+Use the following References for citation:
+
+@MISC{konect:2018:dimacs10-celegansneural,
+    title = {Caenorhabditis elegans (neural) network dataset -- {KONECT}},
+    month = jan,
+    year = {2018},
+    url = {http://konect.cc/networks/dimacs10-celegansneural}
+}
+
+@article{konect:duncan98,
+	title = {Collective Dynamics of `Small-world' Networks},
+	author = {Duncan J. Watts and Steven H. Strogatz},
+	journal = {Nature},
+	volume = {393},
+	number = "1",
+	pages = "440--442",
+	year = "1998",
+}
+
+@article{konect:duncan98,
+	title = {Collective Dynamics of `Small-world' Networks},
+	author = {Duncan J. Watts and Steven H. Strogatz},
+	journal = {Nature},
+	volume = {393},
+	number = {1},
+	pages = {440--442},
+	year = {1998},
+}
+
+@article{konect:celegansneural1,
+	title = {The Structure of the Nervous System of the Nematode {Caenorhabditis} elegans},
+	author = {John G. White and E. Southgate and J. N. Thomson and S. Brenner},
+	journal = {Phil. Trans. R. Soc. Lond},
+	volume = {314},
+	pages = {1--340},
+	year = {1986},
+}
+
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+

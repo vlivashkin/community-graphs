@@ -1,0 +1,78 @@
+U. Rovira i Virgili network, part of the Koblenz Network Collection
+===========================================================================
+
+This directory contains the TSV and related files of the arenas-email network: This is the email communication network at the University Rovira i Virgili in Tarragona in the south of Catalonia in Spain. Nodes are users and each edge represents that at least one email was sent.  The direction of emails and the number of emails between two persons are not stored.
+
+
+More information about the network is provided here: 
+http://konect.cc/networks/arenas-email
+
+Files: 
+    meta.arenas-email -- Metadata about the network 
+    out.arenas-email -- The adjacency matrix of the network in whitespace-separated values format, with one edge per line
+      The meaning of the columns in out.arenas-email are: 
+        First column: ID of from node 
+        Second column: ID of to node
+        Third column (if present): weight or multiplicity of edge
+        Fourth column (if present):  timestamp of edges Unix time
+
+
+Use the following References for citation:
+
+@MISC{konect:2017:arenas-email,
+    title = {U. Rovira i Virgili network dataset -- {KONECT}},
+    month = oct,
+    year = {2017},
+    url = {http://konect.cc/networks/arenas-email}
+}
+
+@article{konect:guimera03,
+        title = {Self-similar Community Structure in a Network of Human
+                  Interactions},  
+        author = {Roger Guimerà and Leon Danon and Albert Díaz-Guilera and
+                  Francesc Giralt and Alex Arenas}, 
+        journal = {Phys. Rev. E},
+        volume = {68},
+        number = {6},
+        pages = {065103},
+        year = {2003},
+}
+
+@article{konect:guimera03,
+        title = {Self-similar Community Structure in a Network of Human
+                  Interactions},  
+        author = {Roger Guimerà and Leon Danon and Albert Díaz-Guilera and
+                  Francesc Giralt and Alex Arenas}, 
+        journal = {Phys. Rev. E},
+        volume = {68},
+        number = {6},
+        pages = {065103},
+        year = {2003},
+}
+
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+
